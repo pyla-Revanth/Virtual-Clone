@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment
+.env
+*.env
+
+# MyPy
+.mypy_cache/
+
+# Coverage
+.coverage
+coverage.xml
+htmlcov/
+
+# Pytest
+.cache/
+pytest*.html
+pytest*.xml
